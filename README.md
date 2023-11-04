@@ -2,7 +2,7 @@
 
 ## Info
 
-This is my personal config for neovim with using [https://github.com/junegunn/vim-plug|vimplug].
+This is my personal config for neovim with using [vimplug](https://github.com/junegunn/vim-plug|vimplug)
 
 ## Install
 
